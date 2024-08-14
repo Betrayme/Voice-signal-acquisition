@@ -2,6 +2,6 @@
 
 ### 文件格式
 
-Audio_Process文件夹为CCS工程文件,它包含了各种工程范例其中路径"Audio_Process\NonOS\Application\AUDIO_LINE_IN"是语音采集和传输的工程文件
-Lib为开发资料
-wavgen为PC端使用matlab对数据进行处理
+Audio_Process文件夹为CCS工程文件,它包含了各种工程范例其中路径"Audio_Process\NonOS\Application\AUDIO_LINE_IN"是语音采集和传输的工程文件  
+Lib为开发资料  
+wavgen为PC端使用matlab对数据进行处理  
