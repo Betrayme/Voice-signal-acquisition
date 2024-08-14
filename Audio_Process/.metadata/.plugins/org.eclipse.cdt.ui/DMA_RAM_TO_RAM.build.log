@@ -1,0 +1,78 @@
+
+**** Build of configuration Debug for project DMA_RAM_TO_RAM ****
+
+"D:\\CCS12\\ccs\\utils\\bin\\gmake" -k all 
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_ADC_cal.asm"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_ADC_cal.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_ADC_cal.asm"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_ADC_cal.asm"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_CodeStartBranch.asm"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_CodeStartBranch.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_CodeStartBranch.asm"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_CodeStartBranch.asm"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_CpuTimers.c"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_CpuTimers.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_CpuTimers.c"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_CpuTimers.c"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_DMA.c"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_DMA.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_DMA.c"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_DMA.c"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_DefaultIsr.c"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_DefaultIsr.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_DefaultIsr.c"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_DefaultIsr.c"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Headers/DSP2833x_GlobalVariableDefs.c"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_GlobalVariableDefs.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Headers/DSP2833x_GlobalVariableDefs.c"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Headers/DSP2833x_GlobalVariableDefs.c"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_PieCtrl.c"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_PieCtrl.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_PieCtrl.c"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_PieCtrl.c"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_PieVect.c"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_PieVect.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_PieVect.c"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_PieVect.c"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_Sci.c"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_Sci.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_Sci.c"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_Sci.c"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_SciStdio.c"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_SciStdio.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_SciStdio.c"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_SciStdio.c"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_SysCtrl.c"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_SysCtrl.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_SysCtrl.c"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_SysCtrl.c"
+ 
+Building file: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_usDelay.asm"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="DSP2833x_usDelay.d_raw"  "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_usDelay.asm"
+Finished building: "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/Source/Common/DSP2833x_usDelay.asm"
+ 
+Building file: "../main.c"
+Invoking: C2000 Compiler
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 --include_path="D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" --include_path="../../../Include/Headers" --include_path="../../../Include/Common" --include_path="../../../Include/Math/IQmath" --include_path="../../../Include/Math/FPUfastRTS" -g --display_error_number --diag_wrap=off --diag_warning=225 --preproc_with_compile --preproc_dependency="main.d_raw"  "../main.c"
+Finished building: "../main.c"
+ 
+Building target: "DMA_RAM_TO_RAM.out"
+Invoking: C2000 Linker
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -g --display_error_number --diag_wrap=off --diag_warning=225 -z -m"DMA_RAM_TO_RAM.map" --stack_size=0x300 --warn_sections -i"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/lib" -i"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" -i"../" -i"../../../Library/Common" -i"../../../Library/Math/IQmath" -i"../../../Library/Math/FPUfastRTS" --reread_libs --display_error_number --diag_wrap=off --xml_link_info="DMA_RAM_TO_RAM_linkInfo.xml" --rom_model -o "DMA_RAM_TO_RAM.out" "./DSP2833x_ADC_cal.obj" "./DSP2833x_CodeStartBranch.obj" "./DSP2833x_CpuTimers.obj" "./DSP2833x_DMA.obj" "./DSP2833x_DefaultIsr.obj" "./DSP2833x_GlobalVariableDefs.obj" "./DSP2833x_PieCtrl.obj" "./DSP2833x_PieVect.obj" "./DSP2833x_Sci.obj" "./DSP2833x_SciStdio.obj" "./DSP2833x_SysCtrl.obj" "./DSP2833x_usDelay.obj" "./main.obj" "../28335_RAM_lnk.cmd" "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/TargetConfig/cmd/DSP2833x_Headers_nonBIOS.cmd"  -llibc.a -lrts2800_fpu32.lib -lIQmath_fpu32.lib -lrts2800_fpu32_fast_supplement.lib 
+<Linking>
+Finished building target: "DMA_RAM_TO_RAM.out"
+ 
+
+**** Build Finished ****

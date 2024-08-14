@@ -1,0 +1,14 @@
+
+**** Build of configuration Debug for project AUDIO_LINE_IN ****
+
+"D:\\CCS12\\ccs\\utils\\bin\\gmake" -k all 
+ 
+Building target: "AUDIO_LINE_IN.out"
+Invoking: C2000 Linker
+"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/bin/cl2000" -v28 -ml -mt --float_support=fpu32 -g --display_error_number --diag_wrap=off --diag_warning=225 -z -m"AUDIO_LINE_IN.map" --stack_size=0x300 --warn_sections -i"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/lib" -i"D:/CCS12/ccs/tools/compiler/ti-cgt-c2000_22.6.1.LTS/include" -i"../" -i"../../../Library/Common" -i"../../../Library/Math/IQmath" -i"../../../Library/Math/FPUfastRTS" --reread_libs --display_error_number --diag_wrap=off --xml_link_info="AUDIO_LINE_IN_linkInfo.xml" --rom_model -o "AUDIO_LINE_IN.out" "./DSP2833x_ADC_cal.obj" "./DSP2833x_CodeStartBranch.obj" "./DSP2833x_CpuTimers.obj" "./DSP2833x_DMA.obj" "./DSP2833x_DefaultIsr.obj" "./DSP2833x_GlobalVariableDefs.obj" "./DSP2833x_I2C.obj" "./DSP2833x_Mcbsp1.obj" "./DSP2833x_PieCtrl.obj" "./DSP2833x_PieVect.obj" "./DSP2833x_Sci.obj" "./DSP2833x_SciStdio.obj" "./DSP2833x_SysCtrl.obj" "./DSP2833x_Xintf.obj" "./DSP2833x_usDelay.obj" "./FIFO.obj" "./main.obj" "../28335_RAM_lnk.cmd" "D:/WORK_SPCAE/CCS_Project/Audio_Process/NonOS/TargetConfig/cmd/DSP2833x_Headers_nonBIOS.cmd"  -llibc.a -lrts2800_fpu32.lib -lIQmath_fpu32.lib -lrts2800_fpu32_fast_supplement.lib 
+<Linking>
+warning #10210-D: creating ".esysmem" section with default size of 0x400; use the -heap option to change the default size
+Finished building target: "AUDIO_LINE_IN.out"
+ 
+
+**** Build Finished ****
